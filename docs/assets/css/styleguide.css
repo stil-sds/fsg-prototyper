@@ -7612,7 +7612,7 @@ textarea.input-char-27 {
 }
 
 .header .logo {
-    background-image: url("http://via.placeholder.com/200x60");
+    background-image: url(../img/200x60.png);
     background-size: contain;
     background-repeat: no-repeat;
     display: inline-block;
